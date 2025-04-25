@@ -1,7 +1,7 @@
 def sum_list(*args):
     total=0
     for i in args:
-        total+=i
+        total+=i # add each number to total
     return total
 
 #test

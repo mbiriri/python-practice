@@ -1,7 +1,7 @@
 #2: check if number is even or odd
 
 def even_odd(n):
-    if n%2==0:
+    if n%2==0: # check if number is divisible by 2 
         return "even"
     else:
         return "odd"
